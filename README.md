@@ -53,7 +53,7 @@ Listegy is designed to turn that process into a structured application with save
 
 ### Product image selection
 
-![Product image selection](screenshots/listegy_selecction.png)
+![Product image selection](screenshots/listegy_selection.png)
 
 ### Lifestyle image generation workflow
 

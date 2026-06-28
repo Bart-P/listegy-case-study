@@ -49,15 +49,15 @@ Listegy is designed to turn that process into a structured application with save
 
 ### Listing text workflow
 
-![Listing text workflow](screenshots/01-text-generation.png)
+![Listing text workflow](screenshots/listegy_generation.png)
 
 ### Product image selection
 
-![Product image selection](screenshots/02-image-selection.png)
+![Product image selection](screenshots/listegy_selecction.png)
 
 ### Lifestyle image generation workflow
 
-![Lifestyle image generation workflow](screenshots/03-image-generation.png)
+![Lifestyle image generation workflow](screenshots/listegy_text_generation.png)
 
 ## Architecture Overview
 
